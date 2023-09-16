@@ -1,5 +1,0 @@
-version: 1
-services:
-  - name: weather
-    type: node
-    entry: index.js 
