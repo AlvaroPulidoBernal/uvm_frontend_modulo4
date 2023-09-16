@@ -1,5 +1,0 @@
-Your API Access Key
-	55f45996a84706946ffe7f4204db6f9a
-
-Link to example
-	https://codeforgeek.com/build-a-weather-web-app-using-node-express-and-weatherstack/
